@@ -1,7 +1,7 @@
 ## Hi there ⋆𐙚₊˚⊹♡
 
 
-- 🔭 I’m currently a data science student 
+- 🔭 I’m currently a data science student <iframe src="https://giphy.com/embed/t7YnMUMYwD4cxwaN9y" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-birthday-happy-happybirthday-t7YnMUMYwD4cxwaN9y">via GIPHY</a></p>
 ⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣶⠿⠛⠿⣦⣄⣠⣶⠿⠟⠉⠉⠙⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀
